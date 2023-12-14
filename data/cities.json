@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Bengaluru",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-13T12:31:51.010Z",
+      "notes": "",
+      "position": {
+        "lat": "13.036669323115246",
+        "lng": "77.65136718750001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Gurgaon",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-13T12:34:08.451Z",
+      "notes": "",
+      "position": {
+        "lat": "28.497660832963472",
+        "lng": "77.05810546875001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Pune",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-13T12:38:42.548Z",
+      "notes": "",
+      "position": {
+        "lat": "18.510865709091377",
+        "lng": "73.83911132812501"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Mumbai",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-13T13:38:00.609Z",
+      "notes": "Navi mumbai",
+      "position": {
+        "lat": "19.082235456054104",
+        "lng": "72.8771209716797"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Greater Noida",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-13T15:02:53.463Z",
+      "notes": "Apna noida\n",
+      "position": {
+        "lat": "28.492833128965096",
+        "lng": "77.38082885742188"
+      },
+      "id": 98443203
+    }
+  ]
+}
